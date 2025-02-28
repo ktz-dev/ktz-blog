@@ -7,7 +7,7 @@ function App() {
       <Header />
       <div className="block mx-auto w-full max-w-[1500px] px-3 md:px-10">
         <Outlet />
-        <div className="mt-10 text-black/[0.5] text-sm w-full text-right">
+        <div className="py-5 mt-10 text-black/[0.5] text-sm w-full text-right">
           Published by Waled Khatiz (ktz-dev)
         </div>
       </div>
